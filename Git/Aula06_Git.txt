@@ -1,0 +1,10 @@
+Principais pontos:
+
+1 - git merge: serve para fazer a merge entre as branchs
+
+2 - git checkout HEAD~1 : serve para navegar entre os commits
+
+3 - git reset HEAD~1 : desfaz commit mantendo as alteraçoes feitas no commit que desfizemos
+
+4 - git reset --hard HEAD~1 desfaz commit deixando de lado as alterações feitas no commit que desfizemos.
+
