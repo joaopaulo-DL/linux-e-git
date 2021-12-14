@@ -1,0 +1,13 @@
+Pontos principais:
+
+1 - git init: cria o repositório na pasta escolhida
+
+2 - git status: mostra o status de cada arquivo do repositorio
+
+3 - git add: adiciona o arquivo ao staging area
+
+4 - git commit: faz o commit dos arquivos no staging area
+
+5 - git log: mostra o historico de commits
+
+6 - arquivo .gitignore serve para colocar o nome dos arquivos os quais quer q o git ignore.
