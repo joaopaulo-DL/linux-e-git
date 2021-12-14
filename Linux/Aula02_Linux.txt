@@ -1,0 +1,29 @@
+Comandos mais importantes:
+
+1 - ls: comando utilizado para listar (daí a singla ls) os arquivos que estão contidos no seu diretório atual.
+
+2 - cd:  significa change directory, ou seja, é um comando para alterar o diretório em que você se encontra. Se executado sem um complemento, irá te levar para o diretório /home.
+O complemento desse comando pode ser qualquer caminho (path) para uma outra pasta do disco; ou apenas .. para retornar para a pasta anterior à atual.
+
+3 - mkdir: comando para criar uma pasta (make directory).
+
+4 - rm: comando utilizado para remover pastas ou arquivos. Para remover uma pasta/diretório você deve utilizar o comando da seguinte forma: rm -r nome_da_pasta.
+
+5 - pwd:  comando para exibir o diretório (estrutura das pastas) atual. Vem do inglês, print working directory.
+
+6 - touch: comando para criar um arquivo qualquer. Por isso, você deve utilizar esse comando sempre acompanhado do nome do arquivo e a extensão dele.
+Por exemplo: o comando touch exemplo.py irá criar o arquivo exemplo.py.
+
+7 - cat: comando utilizado para exibir no terminal o conteúdo do arquivo. Sempre deve vir acompanhado do nome do arquivo, por exemplo: o comando cat exemplo.py irá exibir o conteúdo do arquivo exemplo.py.
+
+8 - nano: comando utilizado para editar um arquivo dentro do próprio terminal. Sempre deve vir acompanhado do nome do arquivo, por exemplo: o comando nano exemplo.py irá abrir o arquivo exemplo.py 
+no modo de edição.
+
+9 - mv: mover um arquivo de um diretório para outro diretório. Por exemplo, o comando mv arquivo1.txt Documentos/ vai mover o arquivo1.txt para a pasta Documentos.
+
+10 - cp: copiar um arquivo de um diretório para outro diretório. Por exemplo, o comando cp arquivo1.txt Documentos/ vai copiar o arquivo1.txt para a pasta Documentos.
+
+11 - sudo apt update: Comando utilizado para atualizar a lista de repositórios do sistema. O apt é o gerenciador de pacotes do Ubuntu e Debian. Esse comando irá atualizar a lista de repositórios para 
+verificar se existem atualizações de softwares para serem feitas ou irá apenas manter a lista atualizada para que, quando você instalar um novo pacote, ele já esteja em sua versão mais recente.
+
+12 - sudo apt upgrade: atualiza o sistema instalando e/ou atualizando os pacotes/softwares.
