@@ -1,0 +1,11 @@
+Pontos mais importante:
+
+1 - git diff: mostra a diferença do repositorio atual para o ultimo commit
+
+2 - git show: mostra o que aconteceu em um determinado commit
+
+3 - branches são ramificaçoes do projeto principal que tem o intutio de trabalhar no projeto sem que ocorra necessariamente uma mudança no projeto principal
+
+4 - git branch: serve para criar outra branch
+
+5 - git checkout: serve para mudar de branch
