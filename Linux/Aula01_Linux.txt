@@ -1,0 +1,9 @@
+Pontos mais importantes:
+
+1 - Linux não é um OS e sim um Kernel
+2 - Existem varias distribuições Linux e Ubunto é uma delas.
+3 - Linux é open source mas isso não significa que todas as distros sejam gratuitas.
+4 - Kernel é responsavel por traduzir a linguagem de software para a linguagem de hardware
+5 - Shell é responsavel por dar a capacidade do usuario se comunicar com o computador pela linguagem de software
+6 - Interfáce gráfica é responsavel pela comunicação do usuario com a maquina sem necessidade de código.
+7 - É possivel de se utilizar varias OS na mesma maquina sem utilizar de dual boot, criando uma máquina Virtual.
