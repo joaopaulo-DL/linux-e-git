@@ -1,0 +1,9 @@
+Pontos mais importantes:
+
+1 - O Git foi criado para facilitar o gerenciamento do versionamento de softwares e o trabalho em equipe em um mesmo projeto.
+
+2 - O Git é para trabalhar em um repositório local, Github é um repositório remoto.
+
+3 - Após a instalação do git e do Bash do git é necessario configurar o usuario com o nome de usuario e email para questoes de indentificação em cada movimento que ocorra no projeto.
+
+4 - O fluxograma do git é repositório local ---> staging area -----> commit (checkpoint)
